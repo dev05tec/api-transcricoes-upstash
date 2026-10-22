@@ -1,0 +1,12 @@
+{
+  "name": "api-transcricoes-upstash",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.39.0"
+  }
+}
